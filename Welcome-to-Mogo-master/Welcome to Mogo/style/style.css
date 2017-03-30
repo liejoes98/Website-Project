@@ -1,0 +1,84 @@
+.index {
+    width: 1920px;
+    height: 1134px;
+    border: 1px solid red;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../png/background-img.jpg');
+    background-size: cover;
+}
+.header {
+    margin-left: 360px;
+    margin-right: 360px;
+}
+.logo {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: white;
+    font-size: 35px;
+    margin-top: 28px;
+    opacity: .9;
+}
+li a {
+    display: inline;
+    color: white;
+    opacity: .9;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 55px;
+}
+li {
+    display: inline;
+}
+.navi {
+    float: right;
+    display: inline;
+    margin-top: 40px;
+}
+#cur {
+    padding: 0 0 12px 0;
+    color:#fce38a;
+    border-bottom: 5px solid #fce38a;
+}
+.body {
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 170px;
+}
+.sign {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    opacity: .9;
+}
+.Title {
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 110px;
+    color: white;
+    text-align: center;
+    opacity: .9;
+}
+.line {
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 590px;
+    width: 70px;
+    border: none;
+    height: 5px;
+    background-color: #FFF;
+    
+}
+.learn {
+    display: inline-block;
+    margin-left: 530px;
+    margin-top: 26px;
+    color: white;
+    padding: 15px 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    background-color: black;
+    opacity: .9;
+    
+}

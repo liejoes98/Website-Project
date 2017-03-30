@@ -1,0 +1,230 @@
+body {
+    width: 1000px;
+    margin: auto;
+}
+.logo {
+    margin-top: 15px;
+    width: 1000px;
+
+}
+.logo h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline;
+    margin-left: 15px;
+}
+.Logo_plus {
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    display: inline;
+}
+.Head_nav li {
+    display: inline;    
+}
+
+.Head_nav li a {
+    color: black;
+    font-size: 15;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-left: 15px;
+    color: grey;
+}
+#cur {
+    color: black;
+    font-weight: bold;
+}
+
+.Head_nav {
+    position: relative;
+    display: inline;
+    float: right;
+    margin-right: 15px;
+    bottom: 10px;
+}
+.landscape img {
+    margin-left: 15px;
+    width: 680px;
+    height: 220px;
+    position: relative;
+}
+.quotes1 {
+    position: relative;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 140px;
+    left: 35px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 390px;
+}
+.quotes2 {
+    position: relative;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 160px;
+    left: 35px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 330px;
+}
+.quotes3 {
+    position: relative;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 180px;
+    left: 35px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 310px;
+}
+
+.black img {
+    position: relative;
+    bottom: 416px;
+    float: right;
+    display: inline;
+    margin-right: 15px;
+    width: 280px;
+    height: 220px;
+}
+    .services h2 {
+        position: relative;
+        font-family: 'Roboto', sans-serif;
+        margin-left: 15px;
+        display: inline;
+        font-size: 28px;
+        bottom: 180px;
+    }
+#line {
+    position: relative;
+    bottom: 170px;
+    margin-left: 15px;
+    width: 300px;
+}
+.services_info {
+    position: relative;
+    bottom: 170px;
+    color: #666666;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 15px;
+    font-size: 14px;
+    width: 300px
+    
+}
+.more {
+    font-variant: small-caps;
+    color: white;
+    position: relative;
+    bottom: 165px;
+    margin-left: 15px;
+    width: 80px;
+    height: 15px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 11px;
+    line-height: 15px;
+    padding: 5px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #333;
+    
+}
+.how h2 {
+        position: relative;
+        font-family: 'Roboto', sans-serif;
+        display: inline;
+        font-size: 28px;
+        bottom: 470px;
+        left: 340px
+}
+#line2 {
+    position: relative;
+    bottom: 460.8px;
+    left: 340px;
+    width: 300px;
+}
+.how_info {
+    position: relative;
+    bottom: 460px;
+    color: #666666;
+    font-family: 'Ubuntu', sans-serif;
+    left: 340px;
+    font-size: 14px;
+    width: 300px
+}
+.more2 {
+    font-variant: small-caps;
+    color: white;
+    position: relative;
+    
+   
+    width: 80px;
+    height: 15px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 11px;
+    line-height: 15px;
+    padding: 5px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #333;
+}
+.quotation img{
+    position: relative;
+    float: right;
+    right: 250px;
+    bottom: 780px;
+    width: 30px;
+}
+blockquote {
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    float: right;
+    width: 300px;
+    left: 25px;
+    bottom: 790px;
+    width: 200px;
+    font-size: 19px;
+}
+#close {
+    position: relative;
+    left: 270px;
+    bottom: 650px;
+}
+cite {
+    position: relative;
+    float: right;
+    bottom: 610px;
+    left: 300px;
+    color: #666;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+}
+#designer {
+    position: relative;
+    float: right;
+    bottom: 590px;
+    left: 390px;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+#line_foot{
+    position: absolute;
+    
+    top: 670px;
+    margin-left: 15px;
+    width: 950px;
+}
+
+.copyright {
+    position: relative;
+    bottom: 400px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.copyright span {
+    color: #666
+}
